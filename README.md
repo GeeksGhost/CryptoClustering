@@ -15,7 +15,7 @@ This project focuses on analyzing and clustering cryptocurrency market data usin
 ## Files and Directories
 
 - **`Resources/crypto_market_data.csv`:** The source file containing the cryptocurrency market data.
-- **`main_script.ipynb`:** The Jupyter Notebook that contains the entire workflow, including data processing, clustering, and visualization.
+- **`Crypto_Clustering_starter_code.ipynb`:** The Jupyter Notebook that contains the entire workflow, including data processing, clustering, and visualization.
 - **`README.md`:** This file, providing an overview of the project and instructions for use.
 
 ## Requirements
